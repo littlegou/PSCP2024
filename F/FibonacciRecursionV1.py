@@ -2,7 +2,7 @@
 def fib(n):
     """fib"""
     dic = {0:0,1:1}
-    if not n:
+    if n in dic:
         return dic.get(n)
     ans = fib(n-1) + fib(n-2)
     dic.update({n:ans})
