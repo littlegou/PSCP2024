@@ -16,3 +16,5 @@ mai mee these problem na kub t - t
 - [ ] [Final 2020] Train Station
 - [ ] [Final 2021] SuperMarketV2
 - [ ] [Final 2021] Time To Travel
+- [ ] [Mock Final 2022] Apartment
+- [ ] [Mock Final 2022] B RNG
